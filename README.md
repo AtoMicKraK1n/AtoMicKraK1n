@@ -1,4 +1,4 @@
-# Hello, I'm Prakhar Sharma 👋
+# Hello, I'm Prakhar👋
 
 Pushing code and culture in the Solana ecosystem.
 
