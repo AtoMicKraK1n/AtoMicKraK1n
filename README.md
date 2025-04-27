@@ -11,9 +11,9 @@ Pushing code and culture in the Solana ecosystem.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtoMicKraK1n&layout=compact&theme=radical" alt="Most Used Languages" height="170px"/>
 </div>
 
-//<div align="center">
-//  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtoMicKraK1n&theme=radical" alt="GitHub Streak" />
-//</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtoMicKraK1n&theme=radical" alt="GitHub Streak" />
+</div>
 
 ## 🏆 Contribution Stats
 
